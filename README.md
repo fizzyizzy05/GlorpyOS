@@ -1,6 +1,6 @@
 # GlorpyOS &nbsp; [![bluebuild build badge](https://github.com/fizzyizzy05/glorpyos/actions/workflows/build.yml/badge.svg)](https://github.com/fizzyizzy05/glorpyos/actions/workflows/build.yml)
 
-> [!INFO]  
+> [!WARNING]  
 > This is a meme image based on Bazzite GNOME. Do not actually use this. The following is good faith humour and is not meant to be degrading towards other projects and people, and should not be taken as such. 
 
 Only the BEST Linux distribution for the ABSOLUTE BEST of GAMERS. GlorpyOS is so smooth and reliable and snappy it's incredible. 
